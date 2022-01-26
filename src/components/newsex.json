@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Will Murray",
+      "title": "Tim Paine's brother hits out over Cricket Australia's handling of texting affair",
+      "description": "The brother of former Australian cricket captain Tim Paine lashes cricket officials over their handling of the Tasmanian's treatment following the texting affair, saying he deserved a home town Ashes send-off against England in Hobart.",
+      "url": "http://www.abc.net.au/news/2022-01-17/tim-paine-brother-says-he-deserved-hobart-ashes-send-off/100761330",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/57705f9aad6878814e2a52b71d92034b?impolicy=wcms_crop_resize&cropH=2354&cropW=4185&xPos=225&yPos=459&width=862&height=485",
+      "publishedAt": "2022-01-17T03:36:02Z",
+      "content": "Tim Paine's brother, Nick, has described watching the fifth Ashes test wrap up without the former national cricket captain and Hobart-local on the field as \"gut-wrenching\".\r\nKey points:\r\n<ul><li>Tim … [+4160 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "'This has to be our rock bottom' - despair at England's capitulation",
+      "description": "Former England cricketers and pundits reacts to the tourists' latest Ashes collapse as the England lose in Hobart and Australia complete a 4-0 series win.",
+      "url": "http://www.bbc.co.uk/sport/cricket/60015667",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0797/production/_122734910_gettyimages-1237760611.jpg",
+      "publishedAt": "2022-01-16T16:52:25.0877036Z",
+      "content": "\"That has to be our rock bottom.\"\r\nThose were the words of former England captain Sir Alastair Cook after the tourists' Ashes misery finally came to an end in a familiar fashion. \r\nSet 271 to win on … [+3595 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
